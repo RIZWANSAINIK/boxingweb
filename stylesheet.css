@@ -1,0 +1,17 @@
+div {
+  border-style: solid;
+}
+
+
+section {
+  margin-bottom: 80px;
+  text-align: center;
+}
+footer{
+  text-align: center;
+} 
+main{
+
+  background: rgb(104,139,212);
+background: radial-gradient(circle, rgba(104,139,212,0.27020314961922265) 1%, rgba(255,223,9,1) 96%);
+}
